@@ -1,0 +1,11 @@
+D:\Workspace\C#\Quan_ly_hoc_vien\bin\Debug\Quan_ly_hoc_vien.exe.config
+D:\Workspace\C#\Quan_ly_hoc_vien\bin\Debug\Quan_ly_hoc_vien.exe
+D:\Workspace\C#\Quan_ly_hoc_vien\bin\Debug\Quan_ly_hoc_vien.pdb
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.csproj.AssemblyReference.cache
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.frmMain.resources
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.Properties.Resources.resources
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.csproj.GenerateResource.cache
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.exe
+D:\Workspace\C#\Quan_ly_hoc_vien\obj\Debug\Quan_ly_hoc_vien.pdb
